@@ -1,0 +1,271 @@
+{
+  "App": {
+    "helloReact": "مرحبا رياكت",
+    "yes": "نعم"
+  },
+  "lorem-ipsum-dolor": "لوريم، إيبسوم دولور.",
+  "react-number-is": "{price,number,currency-egp-full}",
+  "profile-page": {
+    "brand": "سوبر فيتنس",
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "classes": "الحصص",
+    "healthy": "صحي",
+    "profile": "الملف الشخصي",
+    "your-goal": "هدفك",
+    "level": "المستوى",
+    "tap-to-change": "اضغط للتغيير"
+  },
+  "hello-react": "مرحبا رد فعل",
+  "change-password": "تغيير كلمة المرور",
+  "security": "الأمان",
+  "help": "المساعدة",
+  "privacy-policy": "سياسة الخصوصية",
+  "logout": "تسجيل خروج",
+  "mood": "المظهر",
+  "dark": "داكن",
+  "light": "فاتح",
+  "toggle-dark-mode": "تبديل الوضع الداكن",
+  "select-language": "اختر اللغة",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "generate-password": "إنشاء كلمة المرور",
+  "email-is-invalid": "البريد الإلكتروني غير صالح",
+  "email-is-required": "البريد الإلكتروني مطلوب",
+  "password-is-required": "كلمة المرور مطلوبة",
+  "password-pattern": "يجب أن تتكون كلمة المرور من {count} حرفًا على الأقل وتحتوي على حرف كبير واحد وحرف صغير واحد ورقم واحد وحرف خاص واحد على الأقل (",
+  "successful-login": "تم تسجيل الدخول بنجاح",
+  "email": "البريد الالكتروني",
+  "email-placeholder": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "password-placeholder": "أدخل كلمة المرور الخاصة بك",
+  "forgot-your-password": "نسيت كلمة المرور ؟",
+  "login": "تسجيل الدخول",
+  "nav-home": "الرئيسية",
+  "nav-about": "من نحن",
+  "nav-classes": "التدريبات",
+  "nav-healthy": "الصحة",
+  "welcome-back": "مرحبًا بعودتك",
+  "dont-have-account": "ليس لديك حساب ؟",
+  "register": "التسجيل",
+  "something-went-wrong": "حدث خطأ ما",
+  "gender": "الجنس",
+  "age": "العمر",
+  "weight": "الوزن",
+  "height": "الطول",
+  "activity-level": "مستوى النشاط",
+  "goal": "الهدف",
+  "member-since": "عضو منذ",
+  "kg": "كجم",
+  "cm": "سم",
+  "footer-tagline": "ادفع بقوة، اذهب أبعد. رحلتك نحو اللياقة تبدأ اليوم!",
+  "footer-contact": "تواصل معنا",
+  "footer-phone": "+٩١ ١٢٣ ٤٥٦ ٧٨٩",
+  "footer-email": "info@gmail.com",
+  "footer-timing": "مواعيد الصالة",
+  "footer-timing-weekdays": "الاثنين – الجمعة",
+  "footer-timing-weekdays-hours": "٠٨:٠٠ ص – ١٠:٠٠ م",
+  "footer-timing-weekend": "السبت – الأحد",
+  "footer-timing-weekend-hours": "٠٨:٠٠ ص – ٠٩:٠٠ م",
+  "footer-location": "موقعنا",
+  "footer-address": "٢٧١٥ شارع آش، سان خوسيه، داكوتا الجنوبية ٨٣٤٧٥",
+  "footer-copyright": "© {year} سوبر فيتنس. جميع الحقوق محفوظة.",
+  "footer-ticker-classes": "الفصول",
+  "footer-ticker-trainers": "مدربون خارجيون وعبر الإنترنت",
+  "footer-ticker-personal": "التدريب الشخصي",
+  "footer-ticker-live": "فصول مباشرة",
+  "footer-ticker-personal-trainers": "مدربون شخصيون",
+  "about-badge": "من نحن",
+  "about-heading-1": "نُمكّنك من تحقيق",
+  "about-heading-2": "أهداف لياقتك",
+  "about-heading-3": "البدنية",
+  "about-description": "نؤمن بأن اللياقة البدنية أكثر من مجرد تمرين — إنها أسلوب حياة. بمرافق من الدرجة الأولى ومدربين معتمدين ومجتمع داعم، نحن هنا لإلهامك وإرشادك في كل خطوة.",
+  "about-feature-trainer-title": "مدرب شخصي",
+  "about-feature-trainer-desc": "حقق أهداف لياقتك البدنية بإرشاد مدربينا المعتمدين.",
+  "about-feature-cardio-title": "برامج الكارديو",
+  "about-feature-cardio-desc": "من الجري المستمر إلى التدريب المتقطع، برامج جهاز الجري لدينا.",
+  "about-feature-equipment-title": "معدات عالية الجودة",
+  "about-feature-equipment-desc": "صالتنا مجهزة بأحدث أجهزة الكارديو وتقوية العضلات.",
+  "about-feature-nutrition-title": "تغذية صحية",
+  "about-feature-nutrition-desc": "أشعل رحلتك نحو اللياقة بخطط غذائية مخصصة لك.",
+  "about-cta": "ابدأ الآن",
+  "why-us-badge": "لماذا نحن",
+  "why-us-background-text": "لماذا نحن",
+  "why-us-heading-1": "ارتقِ بلياقتك البدنية",
+  "why-us-heading-2": "بأفضل طريقة",
+  "why-us-heading-3": "ممكنة",
+  "why-us-description": "نقدم لك رحلة لياقة بدنية مُصمَّمة وفق أهدافك، بدعم من مدربين محترفين ومجتمع متحمس. سواء كان هدفك إنقاص الوزن أو بناء العضلات أو تحسين الصحة العامة، أساليبنا المُثبتة في خدمتك.",
+  "why-us-item-1-title": "خطط لياقة مخصصة",
+  "why-us-item-1-desc": "نُصمم كل تمرين ليتناسب مع أهدافك ومستوى لياقتك الفريد، لضمان أقصى قدر من التقدم.",
+  "why-us-item-2-title": "التركيز على النتائج",
+  "why-us-item-2-desc": "كل ما نقوم به مصمم لمساعدتك على تحقيق نتائج ملموسة، سواء كنت تستهدف إنقاص الوزن أو غيره.",
+  "why-us-item-3-title": "أحدث المعدات",
+  "why-us-item-3-desc": "نوفر أحدث معدات الجيم، من أجهزة الكارديو إلى الأثقال الحرة، لدعم كل نوع من أنواع التدريب.",
+  "first-name": "الاسم الأول",
+  "last-name": "اسم العائلة",
+  "confirm-password": "تأكيد كلمة المرور",
+  "already-have-account": "هل لديك حساب بالفعل؟",
+  "first-name-is-required": "الرجاء إدخال اسمك الأول",
+  "last-name-is-required": "الرجاء إدخال اسمك الأخير",
+  "confirm-password-is-required": "قم بتأكيد كلمة المرور الخاصة بك",
+  "passwords-dont-match": "كلمات المرور غير متطابقة",
+  "hey-there": "مرحبًا",
+  "create-an-account": "إنشاء حساب",
+  "or": "أو",
+  "successful-register": "تم إنشاء الحساب بنجاح",
+  "classes": {
+    "workout-title": "حوّل جسمك مع تماريننا الديناميكية <span>القادمة</span>",
+    "fitness-class": "حصة لياقة بدنية"
+  },
+  "meals": {
+    "meal-title": "🍽️ اكتشف وجبات مُحضّرة باستخدام <ingredient></ingredient>",
+    "Ingredients": "مكونات",
+    "youtube": "شاهد على يوتيوب",
+    "Instructions": "تعليمات",
+    "load-more": "تحميل المزيد",
+    "loading": "جاري التحميل..."
+  },
+  "healthy-badge": "تغذية صحية",
+  "healthy-heading-start": "عزّز رحلتك الرياضية بخطط",
+  "healthy-heading-highlight": "وجبات",
+  "healthy-heading-end": "مخصصة لك",
+  "healthy-background-text": "صحي",
+  "healthy-meal-time-filter": "تصفية وقت الوجبة",
+  "healthy-tab-breakfast": "فطور",
+  "healthy-tab-lunch": "غداء",
+  "healthy-tab-dinner": "عشاء",
+  "healthy-card-cta": "استكشف",
+  "healthy-retry": "حاول مرة أخرى",
+  "healthy-empty": "لا توجد تصنيفات متاحة حاليًا.",
+  "kyc-wizard": {
+    "shared": {
+      "next-button": "التالي",
+      "done-button": "إنهاء",
+      "personalized-plan-subtitle": "يساعدنا هذا في إنشاء خطتك الشخصية"
+    },
+    "steps": {
+      "gender-step": {
+        "title": "أخبرنا عن نفسك!",
+        "subtitle": "نحتاج إلى معرفة جنسك"
+      },
+      "age-step": {
+        "title": "كم عمرك؟"
+      },
+      "weight-step": {
+        "title": "ما هو وزنك؟"
+      },
+      "height-step": {
+        "title": "ما هو طولك؟"
+      },
+      "goal-step": {
+        "title": "ما هو هدفك؟"
+      },
+      "activity-level-step": {
+        "title": "ما هو مستوى نشاطك البدني المعتاد؟"
+      }
+    },
+    "units": {
+      "years-old": "سنة",
+      "kg": "كجم",
+      "cm": "سم",
+      "forget-password": {
+        "otp-subtitle": "أرسلنا رمزاً إلى {email}. <button>تغيير البريد</button>",
+        "title": "نسيت كلمة المرور",
+        "otp-title": "رمز التحقق",
+        "new-password-title": "إنشاء كلمة مرور جديدة",
+        "email-card-label": "أدخل بريدك الإلكتروني",
+        "otp-card-label": "أدخل رمز التحقق الذي استلمته",
+        "new-password-card-label": "تأكد من إنشاء كلمة مرور قوية!",
+        "send-otp": "إرسال الرمز",
+        "confirm": "تأكيد",
+        "reset-password": "إعادة تعيين كلمة المرور",
+        "didnt-receive": "لم تستلم رمز التحقق؟",
+        "resend-code": "إعادة الإرسال",
+        "resend-countdown": "إعادة الإرسال خلال {seconds} ثانية",
+        "otp-resent": "تم إرسال رمز جديد إلى بريدك الإلكتروني.",
+        "resend-failed": "فشل إعادة الإرسال. حاول مجدداً.",
+        "email-sent": "تم إرسال البريد بنجاح. تحقق من صندوق الوارد.",
+        "new-password-placeholder": "كلمة المرور الجديدة",
+        "confirm-password-placeholder": "تأكيد كلمة المرور",
+        "remembered-password": "تتذكر كلمة مرورك؟",
+        "go-to-login": "تسجيل الدخول"
+      },
+      "common": {
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "confirm-password": "تأكيد كلمة المرور",
+        "continue": "متابعة",
+        "back": "رجوع",
+        "back-to-login": "العودة لتسجيل الدخول",
+        "go-back": "رجوع"
+      },
+      "validation": {
+        "required": "هذا الحقل مطلوب.",
+        "invalid-email": "يرجى إدخال بريد إلكتروني صحيح.",
+        "otp-length": "رمز التحقق يجب أن يكون 6 أرقام.",
+        "password-min": "كلمة المرور يجب أن تكون 8 أحرف على الأقل.",
+        "passwords-not-match": "كلمتا المرور غير متطابقتين."
+      },
+      "password-reset-successfully": "تم إعادة تعيين كلمة المرور بنجاح"
+    },
+    "gender-options": {
+      "male": "ذكر",
+      "female": "أنثى"
+    },
+    "goal-options": {
+      "gain-weight": "زيادة الوزن",
+      "lose-weight": "إنقاص الوزن",
+      "get-fitter": "تحسين اللياقة",
+      "gain-more-flexible": "زيادة المرونة",
+      "learn-the-basic": "تعلم الأساسيات"
+    },
+    "activity-level-options": {
+      "level-1": "مبتدئ جدا",
+      "level-2": "مبتدئ",
+      "level-3": "متوسط",
+      "level-4": "متقدم",
+      "level-5": "محترف"
+    },
+    "toast": {
+      "title": "تم استكمال بياناتك",
+      "description": "تم حفظ جميع الخطوات وعددها {totalSteps} بنجاح."
+    }
+  },
+  "fitnessclass": "قسم اللياقة البدنية",
+  "workouts": "التدريبات",
+  "transform-your-body-with-our-dynamic": "قم بتحويل جسمك بواسطه ",
+  "upcoming-workouts": "التدريبات القادمه",
+  "explore": "استكشف",
+
+  "hero": {
+    "title": "جسمك يستطيع <span>تحمّل أي شيء </span> تقريباً.",
+    "description": "عقلك هو من يحتاج إلى الإقناع. تخطَّ حدودك، والتزم بمسارك، وشاهد جسمك يتحول إلى مصدر للقوة والصمود. ابدأ رحلتك اليوم واكتشف ما أنت قادر عليه حقاً!",
+"stats": {
+      "1": { "number": "١٢٠٠+", "label": "عضو" },
+      "2": { "number": "١٢+",   "label": "برنامج" },
+      "3": { "number": "٢٠+",   "label": "مدرب" }
+    },
+    "slides": {
+      "1": "حصص مباشرة",
+      "2": "مدربون شخصيون",
+      "3": "تدريب خارجي وأونلاين",
+      "4": "حصص خاصة"
+    },
+    "cta": {
+      "start": "ابدأ الآن",
+      "explore": "اكتشف المزيد"
+    },
+    "imageAlt": "رجل كمال أجسام"
+  },
+  "noMusclesFound": "! لم يتم العثور على العضلات",
+  "expertDesignedWorkout": "تمرين مصمم من قبل خبراء",
+  "trackYourProgress": "تتبع تقدمك",
+  "hdVideoQuality": "جودة فيديو عالية الدقة",
+  "noVideoAvailable": "لا يوجد فيديو متاح",
+  "noExercisesFound": "لم يتم العثور على تمارين",
+  "noPreview": "لا يوجد معاينة",
+  "discoverExercises": "اكتشف مجموعة واسعة من التمارين لمساعدتك في تحقيق أهدافك اللياقية.",
+  "playExercise": "تشغيل {name}",
+  "aTargetedWorkout": "تمرين يستهدف {muscle} {pattern}. تابع بالوتيرة التي تناسبك.",
+  "fullBody": "الجسم كامل"
+}
